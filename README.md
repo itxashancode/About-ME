@@ -1,13 +1,3 @@
-<div align="center">
-
-<!-- Cool cursor-following particle background via CodePen -->
-<iframe height="300" style="width:100%; border:none;" scrolling="no" 
-src="https://codepen.io/ashancode/embed/YOUR_CODEPEN_ID?default-tab=result&theme-id=dark">
-</iframe>
-
-</div>
-
----
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=29ABE2,FFA500,FF69B4&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B;I'm+Ashan+Dev;Full+Stack+Developer;Building+Cool+Things+on+the+Web" alt="Typing SVG" />
