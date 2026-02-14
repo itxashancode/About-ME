@@ -33,7 +33,7 @@ I'm Ashan from Pakistan 🇵🇰 <br><br>
 
 ###
 
-<h3 align="left">🔗 My Links</h3>
+<h3 align="left"></h3>
 
 <div align="center">
   <a href="https://github.com/itxashancode" target="_blank">
