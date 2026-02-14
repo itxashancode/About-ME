@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/itxashanvibes/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://pinterest.com/YOUR_PINTEREST">
+  <a href="https://www.pinterest.com/ashancode/">
     <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=BD081C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"  />
   </a>
 </div>
@@ -39,16 +39,10 @@ I'm Ashan from Pakistan 🇵🇰 <br><br>
   <a href="https://github.com/itxashancode" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/itxashanvibes/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://pinterest.com/YOUR_PINTEREST" target="_blank">
+  <a href="https://www.pinterest.com/ashancode/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
 </div>
