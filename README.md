@@ -13,7 +13,7 @@
 <!-- SOCIAL BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-itxashancode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itxashancode)
 [![Instagram](https://img.shields.io/badge/Instagram-itxashanvibes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itxashanvibes/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-ashancode-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/ashancode/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-ashancode-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/ashanclicks/)
 [![Linktree](https://img.shields.io/badge/Linktree-itxashanvibes-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/itxashanvibes)
 
 <br/>
